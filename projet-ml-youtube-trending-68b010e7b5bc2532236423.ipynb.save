@@ -1,3 +1,4 @@
+T
 {
  "cells": [
   {
@@ -46,11 +47,6 @@
     "# import numpy as np ....\n",
     "#...\n",
     "#...\n",
-    "import pandas as pd\n",
-    "import numpy as np\n",
-    "import matplotlib.pyplot as plt\n",
-    "import seaborn as sns\n",
-    "import sklearn as sk\n",
     "# Suppression des warnings\n",
     "import warnings\n",
     "warnings.filterwarnings('ignore')"
@@ -802,14 +798,8 @@
   }
  ],
  "metadata": {
-  "kernelspec": {
-   "display_name": ".venv",
-   "language": "python",
-   "name": "python3"
-  },
   "language_info": {
-   "name": "python",
-   "version": "3.12.3"
+   "name": "python"
   }
  },
  "nbformat": 4,
