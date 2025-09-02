@@ -5,12 +5,6 @@ Ce projet explore plusieurs modèles de Machine Learning afin de **prédire si u
 # Installation
 pip install -r requirements.txt
 
-# Entraînement
-python train.py --model xgboost
-
-# Prédiction
-python predict.py --video "path/to/video.json"
-
 ---
 
 ## 1. Meilleur modèle
