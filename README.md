@@ -43,7 +43,7 @@ Toutes les autres (longueur du titre, heure de publication, etc.) ont un petit r
 
 ---
 
-## 3. Limitations (en clair)
+## 3. Limitations
 
 - Le modèle regarde **surtout le nombre de vues**.  
 - On ne lit pas encore **le texte du titre ou de la description**.  
