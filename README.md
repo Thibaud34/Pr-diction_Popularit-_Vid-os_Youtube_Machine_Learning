@@ -2,8 +2,6 @@
 
 Ce projet explore plusieurs modèles de Machine Learning afin de **prédire si une vidéo YouTube va devenir tendance** à partir de métadonnées disponibles dès la publication.
 
-## Utilisation rapide
-
 # Installation
 pip install -r requirements.txt
 
